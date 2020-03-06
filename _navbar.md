@@ -1,2 +1,2 @@
 * [桑锐物联](http://47.103.110.237:8092/)
-* [更新日志](docs/introduce)
+* [更新日志](docs/changelog)
