@@ -1,2 +1,2 @@
-* [首页](/)
-* [指南](docs/introduce)
+
+* [设计指南](docs/introduce)
