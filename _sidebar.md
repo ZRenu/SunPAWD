@@ -1,5 +1,5 @@
 * 起步
-* [设计指南](docs/introduce)
+    * [设计指南](docs/introduce)
 * 组件
     * [按钮 Button](docs/components/button)
     * [表格 Table](docs/components/table)
