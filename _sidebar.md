@@ -9,4 +9,8 @@
    * [Echarts](docs/unit/echarts)
    * [百度地图 BaiduMap](docs/unit/baidu-map)
 * Vue版
- * [设计指南](vueDocs/introduce)
+   * 设计指南
+ <!-- * [设计指南](vueDocs/introduce) -->
+* 自动化部署
+ * [Jenkins](auto/jenkins)
+
