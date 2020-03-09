@@ -1,4 +1,4 @@
-# 设计指南
+## 设计指南
 
 Sunray PAWD of Angular是桑锐电子后台前端的通用设计框架，秉承[Ant Design](https://ant.design/index-cn)的设计语言，Sunray PAWD是[Ant Design of Angular](https://ng.ant.design/docs/introduce/zh)基于公司自身业务需求进行了二次封装，抽离企业级后台管理系统的通用模块形成快速开发框架，Sunray PAWD会持续迭代助力企业更简单、便捷的开发后台管理系统。
 
