@@ -11,6 +11,8 @@
 * Vue版
    * 设计指南
  <!-- * [设计指南](vueDocs/introduce) -->
+<!-- * [自动化部署](auto/auto) -->
 * 自动化部署
  * [Jenkins](auto/jenkins)
+ * [Docker](auto/docker)
 
