@@ -1,7 +1,6 @@
 
 * Angular版
     * [设计指南](docs/introduce)
-    <!-- * [数据对接](docs/servedata) -->
 * 组件
     * [按钮 Button](docs/components/button)
     * [表格 Table](docs/components/table)
@@ -15,4 +14,6 @@
 * 自动化部署
  * [Jenkins](auto/jenkins)
  * [Docker](auto/docker)
+ 
+* [数据规范](docs/servedata)
 
